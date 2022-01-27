@@ -1,0 +1,9 @@
+[submodule "weather-ui"]
+	path = weather-ui
+	url = git@github.com:diggex/weather-ui.git
+[submodule "weather-api"]
+	path = weather-api
+	url = git@github.com:diggex/weather-api.git
+[submodule "weather-docker"]
+	path = weather-docker
+	url = git@github.com:diggex/weather-docker.git
